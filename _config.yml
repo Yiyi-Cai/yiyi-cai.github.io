@@ -20,14 +20,13 @@ baseurl                  : "/Yiyi-Cai"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile-pic.jpeg"
+  name             : "Yiyi Cai"
+  pronouns         : "she/her"  
+  bio              : "undergraduate student at Caltech with interests in quantum information theory"
+  location         : "Pasadena, CA"
+  employer         : "California Institute of Technology"
+  email            : "yiyicai0615@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

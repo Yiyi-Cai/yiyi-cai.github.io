@@ -11,7 +11,7 @@ Hi! I am Yiyi Cai, a fourth-year undergraduate student at California Institute o
 
 Selected Work
 ----------
-*Stochastic error cancellation in analog quantum simulations*\\
-**Yiyi Cai**, Yu Tong, John Preskill\\
-Proceedings of 2024 TQC, talk to be presented at TQC, *Outstanding Paper Prize*. [pdf](https://arxiv.org/abs/2311.14818)
+*Stochastic error cancellation in analog quantum simulations*  
+**Yiyi Cai**, Yu Tong, John Preskill  
+Proceedings of 2024 TQC, talk to be presented at TQC, *Outstanding Paper Prize*. [pdf](https://arxiv.org/abs/2311.14818)  
 

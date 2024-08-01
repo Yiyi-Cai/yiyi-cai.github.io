@@ -24,7 +24,7 @@ Relevant experience
 Publications
 ------
 * **Y. Cai**, Y. Tong, and J. Preskill. Stochastic error cancellation in analog quantum simulations. arXiv: 2311.14818 (2023).
-* E. Scire, L. Bennett, J. Adler, S. Fajardo-Acosta, R. Fogg, E. Furlan, J. Llamas, P. Bahariance, **Y. Cai**, T. Chung, G. Gharibian, E. Hu, J. Jin, M. Kimura, A. Lee, M. Mansour, M. Mathur, A. Sun, J. Terrones, J. Zhong, B. Ehlmann. Lunar trailblazer ground system development. [*Proc. SPIE 13098*](https://doi.org/10.1117/12.3027493)
+* E. Scire, L. Bennett, J. Adler, S. Fajardo-Acosta, R. Fogg, E. Furlan, J. Llamas, P. Bahariance, **Y. Cai**, T. Chung, G. Gharibian, E. Hu, J. Jin, M. Kimura, A. Lee, M. Mansour, M. Mathur, A. Sun, J. Terrones, J. Zhong, B. Ehlmann. Lunar trailblazer ground system development. [*Proc. SPIE 13098*](https://doi.org/10.1117/12.3027493) (2024). 
   
 Teaching
 -----

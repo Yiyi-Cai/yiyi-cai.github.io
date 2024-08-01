@@ -20,7 +20,7 @@ baseurl                  : "/Yiyi-Cai"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : " profile-pic.png"
+  avatar           : "profile-pic.png"
   name             : "Yiyi Cai"
   pronouns         : "she/her"  
   bio              : "undergraduate student at Caltech with interests in quantum information science"

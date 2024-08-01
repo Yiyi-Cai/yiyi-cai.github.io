@@ -20,13 +20,13 @@ baseurl                  : "/Yiyi-Cai"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic.png"
+  avatar           : " profile-pic.png"
   name             : "Yiyi Cai"
   pronouns         : "she/her"  
   bio              : "undergraduate student at Caltech with interests in quantum information science"
   location         : "New York City, NY"
   employer         : "California Institute of Technology"
-  email            : "yiyicai0615@gmail.com"
+  email            : " yiyicai0615@gmail.com"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=tPRO-fIAAAAJ&hl=en" 

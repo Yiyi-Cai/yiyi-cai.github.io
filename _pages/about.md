@@ -15,19 +15,7 @@ Selected Work
 **Yiyi Cai**, Yu Tong, John Preskill  
 *Outstanding Paper Prize*, 2024 Theory of Quantum Computation, Communication and Cryptography (TQC). [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)]
 
-Watch my TQC talk here ⭐<style>
-  .video-container {
-    width: 500px; /* Set the desired width for the video */
-    height: 281px; /* Set the height proportionally (16:9 aspect ratio) */
-    position: relative;
-    overflow: hidden;
-  }
-
-  .video-container iframe {
-    width: 100%;  /* Make iframe take full width of container */
-    height: 100%; /* Make iframe take full height of container */
-  }
-</style>
+Watch my TQC talk here ⭐
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/EA1-S-TBRYs" frameborder="0" allowfullscreen></iframe>
 </div>

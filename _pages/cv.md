@@ -20,7 +20,7 @@ Relevant experience
 * Quantum Computing Research Analyst, *Global Research Technologies Team, JPMorgan Chase & Co* (Jun. 2024 - Oct. 2024)
 * Summer Undergraduate Research Fellow, *Institute of Quantum Information and Matter (IQIM), Caltech* (Apr. 2023 - Oct. 2023)
 * Mission Operations and Ground Data Systems Intern, *Lunar Trailblazer Mission, Caltech* (Jan. 2022 - Jan. 2024)
-* Student Researcher, *Quantum Machine Learning and Quantum Computation Frameworks for HEP, Caltech & CERN* (Jun. 2022 - Oct. 2022)
+* Summer Undergraduate Research Fellow, *Quantum Machine Learning and Quantum Computation Frameworks for HEP, Caltech & CERN* (Jun. 2022 - Oct. 2022)
 
 Publications
 ------

@@ -18,24 +18,21 @@ Proceedings and talk at 2024 TQC, *Outstanding Paper Prize*. [[paper](https://dr
 Watch my TQC talk here ⭐
 <style>
   .video-container {
+    width: 320px; /* Set the desired width for the video */
+    height: 180px; /* Set the height proportionally (16:9 aspect ratio) */
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
-    height: 0;
     overflow: hidden;
-    max-width: 150px;
   }
 
   .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    width: 100%;  /* Make iframe take full width of container */
+    height: 100%; /* Make iframe take full height of container */
   }
 </style>
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/EA1-S-TBRYs" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 

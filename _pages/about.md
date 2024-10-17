@@ -22,7 +22,7 @@ Watch my TQC talk here ⭐
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
-    max-width: 150pt;
+    max-width: 150px;
   }
 
   .video-container iframe {

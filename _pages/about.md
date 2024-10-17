@@ -16,6 +16,26 @@ Selected Work
 Proceedings and talk at 2024 TQC, *Outstanding Paper Prize*. [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)]
 
 Watch my TQC talk here ⭐
-<iframe width="100" height="56" src="https://www.youtube.com/embed/EA1-S-TBRYs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/EA1-S-TBRYs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 

@@ -29,7 +29,6 @@ Watch my TQC talk here ⭐
     height: 100%; /* Make iframe take full height of container */
   }
 </style>
-
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/EA1-S-TBRYs" frameborder="0" allowfullscreen></iframe>
 </div>

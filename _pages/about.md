@@ -18,8 +18,8 @@ Selected Work
 Watch my TQC talk here ⭐
 <style>
   .video-container {
-    width: 320px; /* Set the desired width for the video */
-    height: 180px; /* Set the height proportionally (16:9 aspect ratio) */
+    width: 500px; /* Set the desired width for the video */
+    height: 281px; /* Set the height proportionally (16:9 aspect ratio) */
     position: relative;
     overflow: hidden;
   }

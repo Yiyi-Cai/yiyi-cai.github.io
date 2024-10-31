@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Yiyi Cai"
 description              : &description "undergraduate student at Caltech with interests in quantum information theory"
 url                      : https://yiyi-cai.github.io
-# baseurl                  : "/Yiyi-Cai"
+baseurl                  : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

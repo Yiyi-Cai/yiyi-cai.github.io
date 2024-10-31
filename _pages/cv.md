@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 -----
-* B.S in Electrical Engineering (Inteilligent Systems), California Institute of Technology, 2025 (expected)
+* B.S. in Electrical Engineering (Inteilligent Systems), California Institute of Technology, 2025 (expected)
 
 
 Relevant experience

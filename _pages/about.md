@@ -17,7 +17,7 @@ Selected Work
 ----------
 *Stochastic Error Cancellation in Analog Quantum Simulations*  
 **Yiyi Cai**, Yu Tong, John Preskill  
-*Outstanding Paper Prize*, 2024 Theory of Quantum Computation, Communication and Cryptography (TQC) [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)]
+*Outstanding Paper Prize*, 2024 Theory of Quantum Computation, Communication and Cryptography (TQC) Conference [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)]
 
 Watch my TQC talk here ⭐
 <style>

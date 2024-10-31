@@ -10,7 +10,7 @@ Hi! I am Yiyi Cai, a fourth-year undergraduate student at California Institute o
 
 My current research focuses on improving code parameters of asymptotically good qLDPC codes and investigating Gibbs state product structure in high temperature. In the past, I have worked on quantum machine learning for high energy physics, error analysis in analog quantum systems, and quantum error correction for ion trapped platforms. I hope to continue exploring concrete tasks quantum computers can perform with provable guarantees. 
 
-I am grateful to be supported by the [Mellon Mays Undergraduate Fellowship] (https://www.mellon.org/mmuf). 
+I am grateful to be supported by the [Mellon Mays Undergraduate Fellowship](https://www.mellon.org/mmuf). 
 
 
 Selected Work

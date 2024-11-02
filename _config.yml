@@ -22,8 +22,8 @@ baseurl                  : ""
 author:
   # Biographic information
   avatar           : "profile-pic.png"
-  name             : "Yiyi Cai 蔡漪漪"
-  pronouns         : "she/her"  
+  name             : "Yiyi Cai"
+  pronouns         : "蔡漪漪 she/her"  
   bio              : "undergraduate student at Caltech with interests in quantum information science"
   location         : " Pasadena, CA"
   employer         : "California Institute of Technology"

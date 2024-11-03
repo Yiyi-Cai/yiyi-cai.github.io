@@ -7,7 +7,11 @@ redirect_from:
 ---
 
 
-
+<style>
+  .page-title {
+      display: none;
+  }
+</style>
 
 Yiyi Cai
 ---

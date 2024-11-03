@@ -9,6 +9,9 @@ redirect_from:
   .page-title {
       display: none;
   }
+   .content {
+      margin-top: -10px; /* Adjust this value as needed */
+  }
 </style>
 Yiyi Cai
 ---

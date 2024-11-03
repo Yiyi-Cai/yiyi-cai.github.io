@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+title: "Yiyi Cai"
 redirect_from: 
   - /about/
   - /about.html

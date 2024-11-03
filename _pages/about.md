@@ -5,8 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yiyi Cai
----------
 
 Hi! I am Yiyi Cai, a fourth-year undergraduate student at Caltech, where I am studying electrical engineering. I am interested in the intersection of theoretical computer science and physics, particularly the field of quantum information theory. At Caltech, I am extremely fortunate to have worked with [Yu Tong](https://scholars.duke.edu/person/yu.tong), [Chris Pattison](https://scholar.google.com/citations?user=4neYf8oAAAAJ&hl=en), and [John Preskill](http://theory.caltech.edu/~preskill/). 
 

@@ -10,7 +10,7 @@ redirect_from:
       display: none;
   }
   .page__content {
-      margin-top: -100px; /* Adjust this value as needed */
+      margin-top: -60px; /* Adjust this value as needed */
   }
 </style>
 Yiyi Cai

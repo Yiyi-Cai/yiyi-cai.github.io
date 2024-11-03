@@ -1,9 +1,4 @@
 ---
-<style>
-  .page-title {
-      display: none;
-  }
-</style>
 permalink: /
 author_profile: true
 redirect_from: 

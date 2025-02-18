@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Yiyi Cai"
-description              : &description "undergraduate student at Caltech with interests in quantum information theory"
+description              : ""
 url                      : https://yiyi-cai.github.io
 baseurl                  : ""
 
@@ -25,7 +25,6 @@ author:
   name             : "Yiyi Cai"
   chinese_name     :  "蔡漪漪"
   pronouns         : "she/her"  
-  bio              : "undergraduate student at Caltech with interests in quantum information science"
   location         : " Pasadena, CA"
   employer         : "California Institute of Technology"
   email:

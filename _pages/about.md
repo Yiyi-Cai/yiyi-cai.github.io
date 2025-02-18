@@ -17,7 +17,7 @@ Yiyi Cai
 ---
 Hi! I am Yiyi Cai, a fourth-year undergraduate student at Caltech, where I am studying electrical engineering. I am interested in the intersection of theoretical computer science and physics, particularly the field of quantum information theory. I hope to continue exploring concrete tasks quantum computers can perform with provable guarantees. In the past, I have worked on quantum machine learning for high energy physics, error analysis in analog quantum systems, and quantum error correction for ion trapped platforms. 
 
-I am grateful to be supported by the [Mellon Mays Undergraduate Fellowship](https://www.mellon.org/mmuf). I will be pursuing a MPhil in Advanced Computer Science at the University of Cambridge as a Gates-Cambridge Scholar, starting fall of 2025. 
+I am grateful to be supported by the [Mellon Mays Undergraduate Fellowship](https://www.mellon.org/mmuf). I will be pursuing a MPhil in Advanced Computer Science at the University of Cambridge as a Gates-Cambridge Scholar, starting in fall of 2025. 
 
 
 Selected Work

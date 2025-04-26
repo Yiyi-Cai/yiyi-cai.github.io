@@ -152,7 +152,7 @@ kramdown:
 collections:
   CV:
     output: true
-    permalink: /:collection/:path/
+    permalink: /Yiyi_CV.pdf
   # publications:
   #   output: true
   #   permalink: /:collection/:path/

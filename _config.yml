@@ -153,8 +153,8 @@ nav:
   - CV: /Yiyi_CV.pdf
 
 # Collections
-collections:
-  CV: https://yiyi-cai.github.io/Yiyi_CV.pdf
+# collections:
+#   CV: https://yiyi-cai.github.io/Yiyi_CV.pdf
     # output: true
     # permalink: /Yiyi_CV.pdf
   # publications:

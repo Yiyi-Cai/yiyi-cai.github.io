@@ -22,27 +22,13 @@ I will be pursuing a MPhil in Advanced Computer Science at the University of Cam
 
 Selected Work
 ----------
-*Stochastic Error Cancellation in Analog Quantum Simulations*  
+*High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States*
+Akshar Ramkmar, **Yiyi Cai**, Yu Tong, Jiaqing Jiang
+arXiv preprint [[arXiv:2505.09730](https://www.arxiv.org/abs/2505.09730)]
+
+*Stochastic Error Cancellation in Analog Quantum Simulation*  
 **Yiyi Cai**, Yu Tong, John Preskill  
-*Outstanding Paper Prize*, 2024 Theory of Quantum Computation, Communication and Cryptography (TQC) Conference [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)]
-
-Watch my TQC talk here ⭐
-<style>
-  .video-container {
-    width: 500px; /* Set the desired width for the video */
-    height: 281px; /* Set the height proportionally (16:9 aspect ratio) */
-    position: relative;
-    overflow: hidden;
-  }
-
-  .video-container iframe {
-    width: 100%;  /* Make iframe take full width of container */
-    height: 100%; /* Make iframe take full height of container */
-  }
-</style>
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/EA1-S-TBRYs" frameborder="0" allowfullscreen></iframe>
-</div>
+*Outstanding Paper Prize*, 2024 Theory of Quantum Computation, Communication and Cryptography (TQC) Conference [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)][[talk](https://www.youtube.com/watch?v=EA1-S-TBRYs&ab_channel=Squid%3ASchoolsforQuantumInformationDevelopment)]
 
 
 

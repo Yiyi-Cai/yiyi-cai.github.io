@@ -24,7 +24,7 @@ Selected Work
 ----------
 *High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States*
 Akshar Ramkmar, **Yiyi Cai**, Yu Tong, Jiaqing Jiang
-arXiv preprint [[arXiv:2505.09730](https://www.arxiv.org/abs/2505.09730)]
+arXiv preprint [arXiv:2505.09730](https://www.arxiv.org/abs/2505.09730)
 
 *Stochastic Error Cancellation in Analog Quantum Simulation*  
 **Yiyi Cai**, Yu Tong, John Preskill  

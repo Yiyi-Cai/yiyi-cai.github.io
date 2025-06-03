@@ -392,19 +392,20 @@
 @media (max-width: 768px) {
   .comment__avatar-wrapper {
     float: none !important;
-    display: flex;
+    display: flex !important;
     justify-content: center;
-    margin-bottom: 1rem;
     width: 100%;
+    margin-bottom: 1em;
   }
 
   .comment__avatar {
     width: 120px !important;
-    height: auto;
+    height: auto !important;
     display: block;
   }
 
   .page__content p {
-    clear: both;
+    clear: both !important;
   }
 }
+

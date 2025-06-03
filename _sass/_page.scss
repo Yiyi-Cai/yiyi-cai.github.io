@@ -390,24 +390,10 @@
 }
 
 @media (max-width: 768px) {
-  .comment__avatar-wrapper {
-    float: none !important;
-    display: flex !important;
-    justify-content: center !important;
-    width: 100% !important;
-    margin-bottom: 1rem !important;
-  }
-
-  .comment__avatar {
-    width: 120px !important;
-    height: auto !important;
+  * img {
+    max-width: 120px !important;
     display: block !important;
-  }
-
-  .page__content > p:first-of-type {
-    clear: both !important;
-    padding-top: 1rem;
+    margin: 0 auto 1rem auto !important;
   }
 }
-
 

@@ -15,9 +15,9 @@ redirect_from:
 </style>
 
 ----------
-Hi! I am Yiyi Cai, a senior at Caltech, where I am studying electrical engineering. I am broadly interested in the interplay of theoretical computer science and quantum information, including quantum algorithms, coding theory, complexity theory, and cryptography. I hope to apply tools in TCS to discover relevant physical phenomena. In the past, I have worked on quantum error correction and quantum Gibbs sampling. 
+Hi! I am Yiyi Cai, a senior at Caltech, where I am studying electrical engineering. I am broadly interested in the interplay of theoretical computer science and quantum information, including quantum algorithms, coding theory, complexity theory, and cryptography. I hope to apply tools in TCS to discover relevant physical phenomena.
 
-I will be pursuing a MPhil in Advanced Computer Science at the University of Cambridge as a [Gates-Cambridge Scholar](https://www.caltech.edu/about/news/yiyi_cai_gates_cambridge_scholarship) starting in Fall 2025, followed by a PhD in Computer Science at Stanford University in Fall 2026. I am a Mellon Mays Undergraduate Research fellow, and I am grateful to have been awarded the Stanford Graduate Fellowship, the NSF Graduate Student Fellowship, and the National Defense Science and Engineering Graduate Fellowship.  
+I will be pursuing a MPhil in Advanced Computer Science at the University of Cambridge as a [Gates-Cambridge Scholar](https://www.caltech.edu/about/news/yiyi_cai_gates_cambridge_scholarship) starting in Fall 2025, followed by a PhD in Computer Science at Stanford University in Fall 2026. I am grateful to have been awarded the Stanford Graduate Fellowship, the NSF Graduate Student Fellowship, and the National Defense Science and Engineering Graduate Fellowship.  
 
 
 Selected Work

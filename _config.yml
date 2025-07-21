@@ -21,7 +21,7 @@ baseurl                  : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic_2.JPG"
+  avatar           : "new_prof.JPG"
   name             : "Yiyi Cai"
   chinese_name     :  "蔡漪漪"
   pronouns         : "she/her"  

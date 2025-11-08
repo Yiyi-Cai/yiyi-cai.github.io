@@ -15,20 +15,18 @@ redirect_from:
 </style>
 
 ----------
-Hi! I am Yiyi Cai, a senior at Caltech, where I am studying electrical engineering. I am broadly interested in the interplay of theoretical computer science and quantum information, including quantum algorithms, coding theory, complexity theory, and cryptography. I hope to apply tools in TCS to discover relevant physical phenomena.
-
-I will be pursuing a MPhil in Advanced Computer Science at the University of Cambridge as a [Gates-Cambridge Scholar](https://www.caltech.edu/about/news/yiyi_cai_gates_cambridge_scholarship) starting in Fall 2025, followed by a PhD in Computer Science at Stanford University in Fall 2026. I am grateful to have been awarded the Stanford Graduate Fellowship, the NSF Graduate Student Fellowship, and the National Defense Science and Engineering Graduate Fellowship.  
+Hi! I am Yiyi Cai, currently pursuing a MPhil in Advanced Computer Science at the University of Cambridge as a [Gates-Cambridge Scholar](https://www.caltech.edu/about/news/yiyi_cai_gates_cambridge_scholarship), advised by Tom Gur. I am broadly interested in the interplay of theoretical computer science and quantum information, including quantum algorithms, coding theory, complexity theory, and cryptography. I hope to apply tools in TCS to discover relevant physical phenomena. I completed my B.S. in Electrical Engineering at Caltech. I am starting my PhD in Computer Science at Stanford University in Fall 2026, supported by the Stanford Graduate Fellowship.
 
 
 Selected Work
 ----------
-*High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States*  
-Akshar Ramkumar, **Yiyi Cai**, Yu Tong, Jiaqing Jiang  
-arXiv preprint [arXiv:2505.09730](https://www.arxiv.org/abs/2505.09730)  
+**[High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States](https://www.arxiv.org/abs/2505.09730)**  
+Akshar Ramkumar, *Yiyi Cai*, Yu Tong, Jiaqing Jiang  
+QIP 2026
 
-*Stochastic Error Cancellation in Analog Quantum Simulation*  
-**Yiyi Cai**, Yu Tong, John Preskill  
-*Outstanding Paper Prize*, 2024 Theory of Quantum Computation, Communication and Cryptography (TQC) Conference [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2), [talk](https://www.youtube.com/watch?v=EA1-S-TBRYs&ab_channel=Squid%3ASchoolsforQuantumInformationDevelopment)
+**[Stochastic Error Cancellation in Analog Quantum Simulation](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)**  
+*Yiyi Cai*, Yu Tong, John Preskill  
+Outstanding Paper Prize, [TQC 2024](https://www.youtube.com/watch?v=EA1-S-TBRYs&ab_channel=Squid%3ASchoolsforQuantumInformationDevelopment)
 
 
 

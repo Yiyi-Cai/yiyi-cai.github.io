@@ -21,6 +21,7 @@ Hi! I am Yiyi Cai, currently pursuing a MPhil in Advanced Computer Science at th
 Selected Work
 ----------
 [High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States](https://www.arxiv.org/abs/2505.09730)
+
 Akshar Ramkumar, Yiyi Cai, Yu Tong, Jiaqing Jiang  
 QIP 2026
 

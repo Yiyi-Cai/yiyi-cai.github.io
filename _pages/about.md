@@ -26,7 +26,7 @@ QIP 2026
 
 **[Stochastic Error Cancellation in Analog Quantum Simulation](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)**   
 Yiyi Cai, Yu Tong, John Preskill  
-TQC 2024, outstanding paper prize [[talk]](https://www.youtube.com/watch?v=EA1-S-TBRYs&ab_channel=Squid%3ASchoolsforQuantumInformationDevelopment)
+TQC 2024, Outstanding Paper Prize [[talk]](https://www.youtube.com/watch?v=EA1-S-TBRYs&ab_channel=Squid%3ASchoolsforQuantumInformationDevelopment)
 
 
 

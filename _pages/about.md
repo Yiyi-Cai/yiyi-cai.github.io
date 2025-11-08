@@ -21,11 +21,11 @@ Hi! I am Yiyi Cai, currently pursuing a MPhil in Advanced Computer Science at th
 Selected Work
 ----------
 **[High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States](https://www.arxiv.org/abs/2505.09730)**  
-Akshar Ramkumar, *Yiyi Cai*, Yu Tong, Jiaqing Jiang  
+Akshar Ramkumar, Yiyi Cai, Yu Tong, Jiaqing Jiang  
 QIP 2026
 
 **[Stochastic Error Cancellation in Analog Quantum Simulation](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.2)**  
-*Yiyi Cai*, Yu Tong, John Preskill  
+Yiyi Cai, Yu Tong, John Preskill  
 Outstanding Paper Prize, [TQC 2024](https://www.youtube.com/watch?v=EA1-S-TBRYs&ab_channel=Squid%3ASchoolsforQuantumInformationDevelopment)
 
 

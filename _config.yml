@@ -23,10 +23,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiyi Cai"
-  chinese_name     :  "蔡漪漪"
-  pronouns         : "she/her"  
-  location         : " Palo Alto, CA"
-  employer         : "Stanford"
   email            : " yiyicai [at] stanford [dot] edu"
 
 
@@ -34,7 +30,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=tPRO-fIAAAAJ&hl=en" 
 
   # Social media
-  linkedin         : yiyi-cai-201562186
 
 
 # Site Settings
